@@ -2,7 +2,7 @@
    "name": "frontend",
    "version": "0.1.0",
    "private": true,
-   "homepage": "https://github.com/b8380160-collab/Production.git",
+   "homepage": "https://b8380160-collab.github.io/Production",
    "dependencies": {
       "@testing-library/dom": "^10.4.0",
       "@testing-library/jest-dom": "^6.6.3",
